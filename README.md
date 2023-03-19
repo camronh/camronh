@@ -37,18 +37,77 @@ I'm Cam, a full-stack software developer and entrepreneur with a passion for bui
 
 ### 🛠 Skills
 
-- Javascript / NodeJS (2016)
-- Typescript (2020)
-- VueJS (2019)
-- Solidity (2020)
-- REST APIs (2016)
-- Terraform (2020)
-- Linux (2017)
-- Databases (SQL/NoSQL) (2018)
-- Docker (2019)
-- AWS (Lambda, EC2, ECS, DynamoDB) (2016)
-- Git (2016)
-- CI/CD (2021)
+<table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse; width: 100%; text-align: center;">
+  <thead>
+    <tr>
+      <th><strong>Technology</strong></th>
+      <th><strong>Since</strong></th>
+      <th><strong>Expertise</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Javascript / NodeJS</td>
+      <td>2016</td>
+      <td>🟩🟩🟩🟩🟩</td>
+    </tr>
+    <tr>
+      <td>Typescript</td>
+      <td>2020</td>
+      <td>🟩🟩🟩</td>
+    </tr>
+    <tr>
+      <td>VueJS</td>
+      <td>2019</td>
+      <td>🟩🟩🟩🟩</td>
+    </tr>
+    <tr>
+      <td>Solidity</td>
+      <td>2020</td>
+      <td>🟩🟩🟩</td>
+    </tr>
+    <tr>
+      <td>REST APIs</td>
+      <td>2016</td>
+      <td>🟩🟩🟩🟩</td>
+    </tr>
+    <tr>
+      <td>Terraform</td>
+      <td>2020</td>
+      <td>🟩🟩🟩</td>
+    </tr>
+    <tr>
+      <td>Linux</td>
+      <td>2017</td>
+      <td>🟩🟩🟩🟩</td>
+    </tr>
+    <tr>
+      <td>Databases (SQL/NoSQL)</td>
+      <td>2018</td>
+      <td>🟩🟩🟩🟩</td>
+    </tr>
+    <tr>
+      <td>Docker</td>
+      <td>2019</td>
+      <td>🟩🟩</td>
+    </tr>
+    <tr>
+      <td>AWS (Lambda, EC2, ECS, DynamoDB)</td>
+      <td>2016</td>
+      <td>🟩🟩🟩🟩🟩</td>
+    </tr>
+    <tr>
+      <td>Git</td>
+      <td>2016</td>
+      <td>🟩🟩🟩🟩</td>
+    </tr>
+    <tr>
+      <td>CI/CD</td>
+      <td>2021</td>
+      <td>🟩🟩🟩</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
