@@ -91,16 +91,3 @@ I'm Cam, a full-stack software developer and entrepreneur with a passion for bui
   </tbody>
 </table>
 
----
-
-### 🏆 Projects
-
-- **[Lottery Tutorial](https://github.com/camronh/Lottery-Tutorial)** - A beginner's tutorial on developing smart contracts using APIs.
-- **[WiseGuy](https://www.wiseguyai.com/)** - A custom ChatGPT for your company documentation.
-
----
-
-### 🎓 Education
-
-- AA in Marketing from FAU
-- AWS Certified Cloud Practitioner
