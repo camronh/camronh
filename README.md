@@ -12,7 +12,7 @@
 
 ### 👋 About Me
 
-I'm Camron, a full-stack software developer and entrepreneur with a passion for building innovative solutions. I have experience in backend development, cloud computing, blockchain technology, and creating user-friendly interfaces. I'm a team player with a workaholic mindset and enjoy learning new technologies.
+I'm Cam, a full-stack software developer and entrepreneur with a passion for building innovative solutions. I have experience in backend development, cloud computing, blockchain technology, and creating user-friendly interfaces. I'm a team player with a workaholic mindset and enjoy learning new technologies.
 
 ---
 
