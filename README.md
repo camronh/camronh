@@ -91,3 +91,7 @@ I'm Cam, a full-stack software developer and entrepreneur with a passion for bui
   </tbody>
 </table>
 
+----
+
+
+## Check out some of my favorite projects 👇
