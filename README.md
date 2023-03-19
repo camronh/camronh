@@ -1,8 +1,8 @@
 # Camron Haider (Cam)
 
-![Cam's Avatar](https://avatars.githubusercontent.com/u/camronh?v=4&s=120)
+![Cam's Avatar](https://media.licdn.com/dms/image/D4E03AQEuR9RwkwD3rA/profile-displayphoto-shrink_400_400/0/1675529539556?e=1684972800&v=beta&t=tiy_3JyccraIEwPKVVit4U6DeIWlWMcjJEGIlliXtDI)
 
-**Software Developer | Full-Stack | Entrepreneur**
+**Cloud Developer | Full-Stack | Entrepreneur**
 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/camronh) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/camronhaider)
 
