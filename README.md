@@ -14,24 +14,6 @@
 
 I'm Cam, a full-stack software developer and entrepreneur with a passion for building innovative solutions. I have experience in backend development, cloud computing, blockchain technology, and creating user-friendly interfaces. I'm a team player with a workaholic mindset and enjoy learning new technologies.
 
----
-
-### 💼 Experience
-
-**Brazy Proxies** - _Founder and Developer_ (2016 - 2018)
-
-- Created a successful VPN business with $750,000 in revenue within a year.
-- Implemented user dashboards and backend administration using Node.js, Express.js, Lambda, Vue.js, and WordPress.
-
-**Sneaker Bot** - _Developer_ (2018 - 2019)
-
-- Developed a cloud-based sneaker bot using AWS, Playwright, and Node.js.
-- Gained extensive experience in serverless computing, headless browser automation, and cost management.
-
-**API3** - _Integration Manager_ (2020 - 2023)
-
-- Integrated client APIs using API specs, Docker, and Terraform.
-- Managed a team of developers, designed and built Proofs-of-concept for Airnode.
 
 ---
 
