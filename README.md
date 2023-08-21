@@ -46,12 +46,12 @@ I'm Cam, a full-stack software developer and entrepreneur with a passion for bui
     <tr>
       <td>REST APIs</td>
       <td>2016</td>
-      <td>🟩🟩🟩🟩</td>
+      <td>🟩🟩🟩🟩🟩</td>
     </tr>
     <tr>
       <td>Terraform</td>
       <td>2020</td>
-      <td>🟩🟩🟩</td>
+      <td>🟩🟩🟩🟩</td>
     </tr>
     <tr>
       <td>Linux</td>
@@ -66,7 +66,7 @@ I'm Cam, a full-stack software developer and entrepreneur with a passion for bui
     <tr>
       <td>Docker</td>
       <td>2019</td>
-      <td>🟩🟩</td>
+      <td>🟩🟩🟩</td>
     </tr>
     <tr>
       <td>AWS (Lambda, EC2, ECS, DynamoDB)</td>
