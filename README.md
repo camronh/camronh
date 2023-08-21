@@ -12,7 +12,7 @@
 
 ### 👋 About Me
 
-I'm Cam, a full-stack software developer and entrepreneur with a passion for building innovative solutions. I have experience in backend development, cloud computing, blockchain technology, and creating user-friendly interfaces. I'm a team player with a workaholic mindset and enjoy learning new technologies.
+I'm Cam, a full-stack software developer and entrepreneur with a passion for building innovative solutions. I have expertise in backend API development, cloud development, AI and blockchain technology, and building large-scale platforms. I'm a team player with a workaholic mindset and enjoy learning new technologies.
 
 
 ---
