@@ -29,14 +29,9 @@ I'm Cam, a full-stack software developer and entrepreneur with a passion for bui
   </thead>
   <tbody>
     <tr>
-      <td>Javascript / NodeJS</td>
+      <td>Javascript / NodeJS / Typescript </td>
       <td>2016</td>
       <td>🟩🟩🟩🟩🟩</td>
-    </tr>
-    <tr>
-      <td>Typescript</td>
-      <td>2020</td>
-      <td>🟩🟩🟩</td>
     </tr>
     <tr>
       <td>VueJS</td>
