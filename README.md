@@ -80,7 +80,7 @@ I'm Cam, a full-stack software developer and entrepreneur with a passion for bui
     </tr>
     <tr>
       <td>CI/CD</td>
-      <td>2021</td>
+      <td>2020</td>
       <td>🟩🟩🟩</td>
     </tr>
   </tbody>
