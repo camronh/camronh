@@ -34,6 +34,11 @@ I'm Cam, a full-stack software developer and entrepreneur with a passion for bui
       <td>🟩🟩🟩🟩🟩</td>
     </tr>
     <tr>
+      <td>Python </td>
+      <td>2021</td>
+      <td>🟩🟩🟩🟩</td>
+    </tr>
+    <tr>
       <td>VueJS</td>
       <td>2019</td>
       <td>🟩🟩🟩🟩</td>
