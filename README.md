@@ -1,6 +1,6 @@
 # Camron Haider (Cam)
 
-**Cloud Developer | Full-Stack | Entrepreneur**
+**Full Stack AI Dev**
 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/camronh) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/camronhaider)
 
